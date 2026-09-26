@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "data_version": 1,
+  "generated_at": "2026-09-26T06:52:07Z",
+  "minimum_app_version": "1.0.0",
+  "latest_app_version": "1.0.0",
+  "datasets": {
+    "holidays": {
+      "version": 1,
+      "url": "data/holidays.v1.json",
+      "sha256": "41f3a1c88ceaafc8a66db9ce1df099ce857b536b49b8be529ee1285cce12b47d",
+      "updated_at": "2026-09-26"
+    }
+  }
+}
