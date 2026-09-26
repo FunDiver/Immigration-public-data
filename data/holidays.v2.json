@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "data_version": 2,
+  "last_updated": "2026-09-26",
+  "source": "Thai government public holiday dates; Immigration office closures require separate Immigration Bureau confirmation.",
+  "is_sample_data": false,
+  "items": [
+    {
+      "id": "th-public-2026-10-13",
+      "date": "2026-10-13",
+      "name_en": "King Bhumibol Adulyadej the Great Memorial Day",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-10-16",
+      "date": "2026-10-16",
+      "name_en": "Bangkok special public holiday",
+      "name_th": null,
+      "scope": "regional",
+      "province_codes": [
+        "TH-10"
+      ],
+      "government_offices_closed": false,
+      "source_name": "Royal Thai Government",
+      "source_url": "https://www.thaigov.go.th/en/news/164228",
+      "announced_date": "2026-05-19",
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-10-23",
+      "date": "2026-10-23",
+      "name_en": "King Chulalongkorn Memorial Day",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-12-05",
+      "date": "2026-12-05",
+      "name_en": "King Bhumibol Adulyadej the Great Birthday, National Day and Father’s Day",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-12-07",
+      "date": "2026-12-07",
+      "name_en": "Substitute public holiday for 5 December",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-12-10",
+      "date": "2026-12-10",
+      "name_en": "Constitution Day",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-12-31",
+      "date": "2026-12-31",
+      "name_en": "New Year’s Eve",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2027-01-01",
+      "date": "2027-01-01",
+      "name_en": "New Year’s Day",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    }
+  ]
+}
