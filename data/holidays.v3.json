@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "data_version": 3,
+  "last_updated": "2026-09-26",
+  "source": "Thai government public holiday dates, Immigration Bureau service-hour sources, and office-specific Immigration closure notices. Nationwide closure is not inferred.",
+  "is_sample_data": false,
+  "items": [
+    {
+      "id": "th-public-2026-10-13",
+      "date": "2026-10-13",
+      "name_en": "King Bhumibol Adulyadej the Great Memorial Day",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-10-16",
+      "date": "2026-10-16",
+      "name_en": "Bangkok special public holiday",
+      "name_th": null,
+      "scope": "regional",
+      "province_codes": [
+        "TH-10"
+      ],
+      "government_offices_closed": false,
+      "source_name": "Royal Thai Government",
+      "source_url": "https://www.thaigov.go.th/en/news/164228",
+      "announced_date": "2026-05-19",
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-10-23",
+      "date": "2026-10-23",
+      "name_en": "King Chulalongkorn Memorial Day",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-12-05",
+      "date": "2026-12-05",
+      "name_en": "King Bhumibol Adulyadej the Great Birthday, National Day and Father’s Day",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-12-07",
+      "date": "2026-12-07",
+      "name_en": "Substitute public holiday for 5 December",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-12-10",
+      "date": "2026-12-10",
+      "name_en": "Constitution Day",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2026-12-31",
+      "date": "2026-12-31",
+      "name_en": "New Year’s Eve",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    },
+    {
+      "id": "th-public-2027-01-01",
+      "date": "2027-01-01",
+      "name_en": "New Year’s Day",
+      "name_th": null,
+      "scope": "nationwide",
+      "province_codes": [],
+      "government_offices_closed": false,
+      "source_name": "Thailand Ministry of Foreign Affairs — 2026 public holidays",
+      "source_url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/February_2026/February_2026.pdf",
+      "announced_date": null,
+      "last_updated": "2026-09-26",
+      "notes": "Official public holiday date. This source does not confirm closure of any specific Immigration counter or checkpoint."
+    }
+  ],
+  "service_schedule_sources": [
+    {
+      "id": "bureau-handbook-stay-extension",
+      "source_name": "Immigration Bureau — in-person stay extension public handbook",
+      "source_url": "https://bangkok.immigration.go.th/wp-content/uploads/2021/06/14Public-Handbook.pdf",
+      "last_verified": "2026-09-26"
+    },
+    {
+      "id": "chiangrai-central-branch-hours",
+      "source_name": "Chiang Rai Immigration — Central Chiang Rai branch service hours",
+      "source_url": "https://chiangrai.immigration.go.th/%E0%B8%95%E0%B8%A1-%E0%B8%88%E0%B8%A7-%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2-%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%B3/",
+      "last_verified": "2026-09-26"
+    },
+    {
+      "id": "phangnga-office-hours",
+      "source_name": "Phang Nga Immigration — office service hours",
+      "source_url": "https://www.phangngaimmigration.go.th/index.php",
+      "last_verified": "2026-09-26"
+    }
+  ],
+  "office_closure_notices": [
+    {
+      "id": "phetchaburi-2026-06-01",
+      "date": "2026-06-01",
+      "office_id": "th-76-provincial",
+      "office_name_en": "Phetchaburi Immigration Office",
+      "province_code": "TH-76",
+      "reason_en": "Substitute public holiday for Visakha Bucha Day",
+      "source_name": "Phetchaburi Immigration",
+      "source_url": "https://phetchaburi.immigration.go.th/index.php/news/news1/trwc-khn-khea-meuxng-canghwad-phechrburi-prakas-wan-hyud-rachkar-praca-deuxn-mithunayn-2569",
+      "announced_date": "2026-05-28",
+      "last_verified": "2026-09-26"
+    },
+    {
+      "id": "phetchaburi-2026-06-03",
+      "date": "2026-06-03",
+      "office_id": "th-76-provincial",
+      "office_name_en": "Phetchaburi Immigration Office",
+      "province_code": "TH-76",
+      "reason_en": "Queen Suthida Birthday",
+      "source_name": "Phetchaburi Immigration",
+      "source_url": "https://phetchaburi.immigration.go.th/index.php/news/news1/trwc-khn-khea-meuxng-canghwad-phechrburi-prakas-wan-hyud-rachkar-praca-deuxn-mithunayn-2569",
+      "announced_date": "2026-05-28",
+      "last_verified": "2026-09-26"
+    },
+    {
+      "id": "phetchaburi-2026-08-12",
+      "date": "2026-08-12",
+      "office_id": "th-76-provincial",
+      "office_name_en": "Phetchaburi Immigration Office",
+      "province_code": "TH-76",
+      "reason_en": "Queen Mother Birthday and National Mother Day",
+      "source_name": "Phetchaburi Immigration",
+      "source_url": "https://phetchaburi.immigration.go.th/index.php/news/news1/trwc-khn-khea-meuxng-canghwad-phechrburi-prakas-wan-hyud-rachkar-praca-deuxn-singhakhm-2569",
+      "announced_date": "2026-08-04",
+      "last_verified": "2026-09-26"
+    },
+    {
+      "id": "phangnga-2026-01-01",
+      "date": "2026-01-01",
+      "office_id": "th-82-provincial",
+      "office_name_en": "Phang Nga Immigration Office",
+      "province_code": "TH-82",
+      "reason_en": "New Year Day",
+      "source_name": "Phang Nga Immigration",
+      "source_url": "https://www.phangngaimmigration.go.th/news/30122025",
+      "announced_date": "2025-12-30",
+      "last_verified": "2026-09-26"
+    },
+    {
+      "id": "phangnga-2026-01-02",
+      "date": "2026-01-02",
+      "office_id": "th-82-provincial",
+      "office_name_en": "Phang Nga Immigration Office",
+      "province_code": "TH-82",
+      "reason_en": "Special public holiday",
+      "source_name": "Phang Nga Immigration",
+      "source_url": "https://www.phangngaimmigration.go.th/news/30122025",
+      "announced_date": "2025-12-30",
+      "last_verified": "2026-09-26"
+    }
+  ]
+}
