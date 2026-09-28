@@ -4,8 +4,8 @@
   "updated_at": "2026-09-28",
   "message_en": "Reviewed Thai public holiday dates are available; Immigration office closures require separate confirmation.",
   "message_zh": "已提供核实的泰国公共假日日期；移民局办公室停办情况仍须另行确认。",
-  "last_checked_at": "2026-09-28T01:00:54Z",
-  "last_run_id": 20,
+  "last_checked_at": "2026-09-28T13:00:44Z",
+  "last_run_id": 21,
   "source_checks": {
     "successful": 77,
     "failed": 0
