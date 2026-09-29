@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "status": "reviewed_calendar_published",
-  "updated_at": "2026-09-28",
+  "updated_at": "2026-09-29",
   "message_en": "Reviewed Thai public holiday dates are available; Immigration office closures require separate confirmation.",
   "message_zh": "已提供核实的泰国公共假日日期；移民局办公室停办情况仍须另行确认。",
-  "last_checked_at": "2026-09-28T13:00:44Z",
-  "last_run_id": 21,
+  "last_checked_at": "2026-09-29T01:00:53Z",
+  "last_run_id": 22,
   "source_checks": {
-    "successful": 77,
-    "failed": 0
+    "successful": 76,
+    "failed": 1
   },
   "published_items": 8,
   "published_office_notices": 5
