@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "data_version": 4,
-  "generated_at": "2026-10-08T11:59:55Z",
+  "data_version": 5,
+  "generated_at": "2026-10-08T12:17:46Z",
   "minimum_app_version": "1.0.0",
   "latest_app_version": "1.0.0",
   "datasets": {
@@ -10,6 +10,13 @@
       "url": "data/holidays.v4.json",
       "sha256": "61bb0900b16cb2ee1b2d729a1b7e450f33bd471550c4e43547a049cf8d50ad1d",
       "updated_at": "2026-10-08"
+    },
+    "offices": {
+      "version": 15,
+      "url": "data/immigration_offices.v15.json",
+      "sha256": "a8e52ead1720d6f02124068abdc71c60e501b32ae2a34fb11044ced7c8a2b8ac",
+      "updated_at": "2026-10-08",
+      "schema_version": 1
     }
   }
 }
